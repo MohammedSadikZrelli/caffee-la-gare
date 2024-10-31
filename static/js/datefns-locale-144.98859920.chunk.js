@@ -1,0 +1,2 @@
+(this["webpackJsonppwa-pos-terminal"]=this["webpackJsonppwa-pos-terminal"]||[]).push([[51],{933:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var o={};["MMM","MMMM"].forEach((function(e){o["Do "+e]=function(t,a){var o=a.formatters,r=o[1===t.getUTCDate()?"Do":"D"],n=o[e];return r(t,a)+" "+n(t,a)}}));var r=o;t.default=r,e.exports=t.default}}]);
+//# sourceMappingURL=datefns-locale-144.98859920.chunk.js.map

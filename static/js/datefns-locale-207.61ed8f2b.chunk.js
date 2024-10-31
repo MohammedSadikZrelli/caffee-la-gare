@@ -1,0 +1,2 @@
+(this["webpackJsonppwa-pos-terminal"]=this["webpackJsonppwa-pos-terminal"]||[]).push([[121],{719:function(e,p,t){"use strict";Object.defineProperty(p,"__esModule",{value:!0}),p.default=function(e,p,t,a){return u[e]};var u={lastWeek:"eeee 'lalu pukul' p",yesterday:"'Kemarin pukul' p",today:"'Hari ini pukul' p",tomorrow:"'Besok pukul' p",nextWeek:"eeee 'pukul' p",other:"P"};e.exports=p.default}}]);
+//# sourceMappingURL=datefns-locale-207.61ed8f2b.chunk.js.map

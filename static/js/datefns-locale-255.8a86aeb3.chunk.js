@@ -1,0 +1,2 @@
+(this["webpackJsonppwa-pos-terminal"]=this["webpackJsonppwa-pos-terminal"]||[]).push([[174],{759:function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=function(e,t,r,u){var o=n[e];if("function"===typeof o)return o(t);return o};var n={lastWeek:function(e){var t=e.getUTCDay(),r="'l\xe4schte";return 2!==t&&4!==t||(r+="n"),r+="' eeee 'um' p"},yesterday:"'g\xebschter um' p",today:"'haut um' p",tomorrow:"'moien um' p",nextWeek:"eeee 'um' p",other:"P"};e.exports=t.default}}]);
+//# sourceMappingURL=datefns-locale-255.8a86aeb3.chunk.js.map
